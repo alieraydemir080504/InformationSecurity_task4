@@ -121,15 +121,8 @@ Nevermind!
 
 ### e) Portswigger
 
+I opened the browser dev tools and typed "' OR 1=1-- into the category field. The first quote closes the app’s string, OR 1=1 makes the condition always true so the filter is bypassed, and -- comments out the rest of the SQL so it’s ignored. The input getting reset was probably the page reloading or some client-side script clearing the field, not the database blocking it. To stop this, don’t build SQL by joining strings—use prepared statements/parameterized queries and always validate input on the serve
 
+<img width="1913" height="751" alt="image" src="https://github.com/user-attachments/assets/79c7962c-dd9f-423c-bd25-33918f3bb492" />
 
-
-
-
-
-
-
-
-
-
-
+Only test this on systems you’re allowed to.
