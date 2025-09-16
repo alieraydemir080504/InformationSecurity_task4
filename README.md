@@ -79,3 +79,57 @@ Later we have have a look on the sources
 And lastly we click on a request and try to guess the right number
 <img width="1149" height="418" alt="image" src="https://github.com/user-attachments/assets/03dc0e15-234e-4f06-a160-9ec3fd33a59f" />
 
+## c) Update
+
+Seems already updated
+<img width="367" height="49" alt="image" src="https://github.com/user-attachments/assets/02a7ce67-1141-46ae-aa54-31f34c2ab5f0" />
+
+## d) SQL Zoo
+
+### 0 SELECT basis
+
+<img width="1195" height="481" alt="image" src="https://github.com/user-attachments/assets/6af9948a-159c-4e01-9083-a6183af51ad8" />
+
+<img width="1209" height="563" alt="image" src="https://github.com/user-attachments/assets/2858b1d7-1cfd-4668-94f3-4004bc38cc33" />
+
+<img width="1202" height="543" alt="image" src="https://github.com/user-attachments/assets/83eda4d9-ca21-4f86-bd18-35f36adb6d2d" />
+
+### Select from world
+
+<img width="1212" height="490" alt="image" src="https://github.com/user-attachments/assets/8c5d6c9b-67d8-4cab-b9ef-09a837de760f" />
+
+<img width="1199" height="459" alt="image" src="https://github.com/user-attachments/assets/9b8e4604-1fff-4cd4-b2f8-381dd57e2d93" />
+
+<img width="1203" height="456" alt="image" src="https://github.com/user-attachments/assets/f0846932-cdb7-4240-845d-02dd0802d25c" />
+
+<img width="1017" height="340" alt="image" src="https://github.com/user-attachments/assets/b7bba02b-573a-444d-8ae7-e6eb15bf5435" />
+
+<img width="1206" height="452" alt="image" src="https://github.com/user-attachments/assets/e0d629d7-14ed-49a1-844a-730062bf62ce" />
+
+<img width="1204" height="462" alt="image" src="https://github.com/user-attachments/assets/2d153b7e-f380-4844-ae57-f2f21c8a0242" />
+
+<img width="1200" height="488" alt="image" src="https://github.com/user-attachments/assets/8e6e90f4-5833-44d9-a503-9f3f2aa99c6a" />
+
+<img width="1188" height="626" alt="image" src="https://github.com/user-attachments/assets/5986187f-05b7-4ac9-865d-28026162df89" />
+
+<img width="1181" height="585" alt="image" src="https://github.com/user-attachments/assets/16989350-e5d9-45d6-b7df-25e3ba9c7e81" />
+
+<img width="1201" height="530" alt="image" src="https://github.com/user-attachments/assets/21545e92-534e-4c21-9e56-49d623619d4f" />
+
+I just realized I only had to do the first 2...
+Nevermind!
+
+### e) Portswigger
+
+
+
+
+
+
+
+
+
+
+
+
+
