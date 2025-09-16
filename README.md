@@ -119,10 +119,23 @@ Seems already updated
 I just realized I only had to do the first 2...
 Nevermind!
 
-### e) Portswigger
+## e) Portswigger
 
 I opened the browser dev tools and typed "' OR 1=1-- into the category field. The first quote closes the app’s string, OR 1=1 makes the condition always true so the filter is bypassed, and -- comments out the rest of the SQL so it’s ignored. The input getting reset was probably the page reloading or some client-side script clearing the field, not the database blocking it. To stop this, don’t build SQL by joining strings—use prepared statements/parameterized queries and always validate input on the serve
 
 <img width="1913" height="751" alt="image" src="https://github.com/user-attachments/assets/79c7962c-dd9f-423c-bd25-33918f3bb492" />
 
 Only test this on systems you’re allowed to.
+
+## Sources
+
+https://terokarvinen.com/information-security/
+https://owasp.org/Top10/A01_2021-Broken_Access_Control/
+https://owasp.org/Top10/A05_2021-Security_Misconfiguration/
+https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/
+https://owasp.org/Top10/A03_2021-Injection/
+https://xkcd.com/2454/
+https://terokarvinen.com/2023/webgoat-2023-4-ethical-web-hacking/
+https://0a8b00040334802b9b4a37dd00040077.web-security-academy.net/filter?category=%27OR%201=1--
+https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial
+https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
