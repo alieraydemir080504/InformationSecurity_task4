@@ -58,3 +58,24 @@ Now it is installed
 
 With this URL we can access it
 <img width="939" height="653" alt="image" src="https://github.com/user-attachments/assets/d97e8730-57c0-4336-afc2-c060207927dc" />
+
+## b) F12
+
+So I created an account and did the first task here
+<img width="1146" height="718" alt="image" src="https://github.com/user-attachments/assets/f2d12057-5919-4d22-be47-9280052e06a8" />
+
+Here it basically says that the elements can be manipulated, the styling for example (Page 2)
+<img width="790" height="243" alt="image" src="https://github.com/user-attachments/assets/c6112d9f-c5a9-4df2-9ae7-2014488578bf" />
+
+Then we have here the console (Page 3)
+<img width="1141" height="519" alt="image" src="https://github.com/user-attachments/assets/b8194d26-9586-4c5d-a05b-c598d677e66a" />
+
+After that we actuall use it (Page 4)
+<img width="1136" height="93" alt="image" src="https://github.com/user-attachments/assets/259c9d91-741f-4c1c-84bc-056aa196dd35" />
+
+Later we have have a look on the sources
+<img width="1141" height="250" alt="image" src="https://github.com/user-attachments/assets/73207019-9229-42b1-bb98-a1bba14b9700" />
+
+And lastly we click on a request and try to guess the right number
+<img width="1149" height="418" alt="image" src="https://github.com/user-attachments/assets/03dc0e15-234e-4f06-a160-9ec3fd33a59f" />
+
