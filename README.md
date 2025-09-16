@@ -37,3 +37,24 @@
 - CDC meant “safe with friends/family,” not strangers’ houses
 - Joke: vaccine protects from COVID, not from social rules
 
+## a) Goat
+
+<img width="786" height="226" alt="image" src="https://github.com/user-attachments/assets/c545dafb-9bf9-4b6a-a42e-739389d1bab7" />
+
+Not able to install openjdk 17, so I went with 21
+<img width="803" height="135" alt="image" src="https://github.com/user-attachments/assets/5ef90485-5e2b-4f01-860f-3f40918136b2" />
+
+Firewall installed and enabled
+<img width="638" height="156" alt="image" src="https://github.com/user-attachments/assets/daf99cc6-636d-4345-9ac1-c86c4ef3ef09" />
+
+I have no package for wget, so I need to install it first
+<img width="803" height="346" alt="image" src="https://github.com/user-attachments/assets/fb5221d6-6617-49b4-8d43-0de95799fcfb" />
+
+After that, I can install Goat
+<img width="815" height="131" alt="image" src="https://github.com/user-attachments/assets/68f4a345-d657-4d59-ac5d-c3de07b216fd" />
+
+Now it is installed
+<img width="802" height="255" alt="image" src="https://github.com/user-attachments/assets/45b2fa71-f187-4a3c-ab6c-edb8d415c0c4" />
+
+With this URL we can access it
+<img width="939" height="653" alt="image" src="https://github.com/user-attachments/assets/d97e8730-57c0-4336-afc2-c060207927dc" />
